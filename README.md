@@ -1,5 +1,6 @@
 # HCI-Assignment-2
-figma link https://www.figma.com/file/vA5ts6qUCSBMwdi1WEzatT/Sheridan-Courses-App-(Ver-2)?node-id=0%3A1
+Figma Link: https://www.figma.com/file/vA5ts6qUCSBMwdi1WEzatT/Sheridan-Courses-App-(Ver-2)?node-id=0%3A1
+Youtube Link: https://youtu.be/iMuHGE1ao-I 
 ![image](https://user-images.githubusercontent.com/49799244/155912984-64dcddaa-e47b-42d4-87e6-0b8b482c18ed.png)
 ![image](https://user-images.githubusercontent.com/49799244/155912989-f33c3130-173d-4449-ab1d-53aff61c3d99.png)
 ![image](https://user-images.githubusercontent.com/49799244/155913000-200aca74-792c-4b71-b540-29a12cf1d9b3.png)
